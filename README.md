@@ -30,6 +30,18 @@ What is the problem? - I haven't done the Lab, Need to speed up the progress..
 
 What's next? - Intend to do the lab tomorrow
 
+
+### 12/04/2025
+The lectures videos and Lab I learned are :
+* [x] day16 VLan Part1
+* [x] day16 VLan Lab
+* [x] day11 Lab
+> About ~ 52% of Intended Lectures
+
+What is the problem? - Day11(Part2) 12 15 Lab need to be done ASAP, Need to speed up even more... The deadline has been moved up..
+
+What's next? - Finish Day11(Part2) 12 15 17 18Lab and learn Day17 18 lectures
+
 ## What I Learned
 
 
