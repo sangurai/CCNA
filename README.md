@@ -30,17 +30,28 @@ What is the problem? - I haven't done the Lab, Need to speed up the progress..
 
 What's next? - Intend to do the lab tomorrow
 
-
 ### 12/04/2025
 The lectures videos and Lab I learned are :
-* [x] day16 VLan Part1
-* [x] day16 VLan Lab
-* [x] day11 Lab
+* [x] day16 VLANs Part1
+* [x] day16 VLANs Lab
+* [x] day11 Lab Static Routing Part1
 > About ~ 52% of Intended Lectures
 
 What is the problem? - Day11(Part2) 12 15 Lab need to be done ASAP, Need to speed up even more... The deadline has been moved up..
 
 What's next? - Finish Day11(Part2) 12 15 17 18Lab and learn Day17 18 lectures
+
+### 13/04/2025
+The lectures videos and Lab I learned are :
+* [x] day11 Static Routing Part2 Lab
+* [x] day12 Life of a Packet Lab 
+* [x] day15 VLSM( also added written solution in PDF format too! ) Lab 
+* [x] day17 VLANs Part2
+> About ~ 55% of Intended Lectures
+
+What is the problem? - VLANs concept is difficult to digest... it slows things down. Need to speed up. The deadline is near..
+
+What's next? - Rewatch Day17 and finish day 18 26 lectures
 
 ## What I Learned
 
