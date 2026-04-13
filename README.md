@@ -30,7 +30,7 @@ What is the problem? - I haven't done the Lab, Need to speed up the progress..
 
 What's next? - Intend to do the lab tomorrow
 
-### 12/04/2025
+### 11/04/2025
 The lectures videos and Lab I learned are :
 * [x] day16 VLANs Part1
 * [x] day16 VLANs Lab
@@ -41,7 +41,7 @@ What is the problem? - Day11(Part2) 12 15 Lab need to be done ASAP, Need to spee
 
 What's next? - Finish Day11(Part2) 12 15 17 18Lab and learn Day17 18 lectures
 
-### 13/04/2025
+### 12/04/2025
 The lectures videos and Lab I learned are :
 * [x] day11 Static Routing Part2 Lab
 * [x] day12 Life of a Packet Lab 
@@ -52,6 +52,18 @@ The lectures videos and Lab I learned are :
 What is the problem? - VLANs concept is difficult to digest... it slows things down. Need to speed up. The deadline is near..
 
 What's next? - Rewatch Day17 and finish day 18 26 lectures
+
+### 13/04/2025
+The lectures videos and Lab I learned are :
+* [x] day17 VLANs Part2 Rewatch
+* [x] day17 VLANs Part2 Lab 
+* [x] day18 VLANs Part3 Lectures and Lab 
+* [x] day20 STP( Spanning Tree Protocol )Lectures
+> About ~ ...% of Intended Lectures
+
+What is the problem? -  ... 
+
+What's next? - ...
 
 ## What I Learned
 
