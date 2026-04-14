@@ -72,7 +72,8 @@ The lectures videos and Lab I learned are :
 * [x] day23 EtherChannel 
 > About ~ ...% of Intended Lectures
 
-What is the problem? -  Spanning Tree Protocol, Rapid Spanning Tree protocol, and EtherChannel is a big concept. The deadline is near and also the wordload is added. **However, the door is open so I won't quit.**
+What is the problem? -  Spanning Tree Protocol, Rapid Spanning Tree protocol, and EtherChannel is a big concept. The deadline is near and also the wordload is added. 
+>**However, the door is open so I won't quit.**
 
 What's next? - Day20, 21, 22, 23 Lab need to be done ASAP and Learn Day 26 27 28 Lectures, have to catchup to the schedule.
 
