@@ -77,6 +77,17 @@ What is the problem? -  Spanning Tree Protocol, Rapid Spanning Tree protocol, an
 
 What's next? - Day20, 21, 22, 23 Lab need to be done ASAP and Learn Day 26 27 28 Lectures, have to catchup to the schedule.
 
+### 15/04/2025
+The lectures videos and Lab I learned are :
+* [x] day26 OSPF( Open Shortest Path First )Part1
+* [x] day27 OSPF( Open Shortest Path First )Part2 
+* [x] day28 OSPF( Open Shortest Path First )Part3
+> About ~ ...% of Intended Lectures
+
+What is the problem? -  need to review Spanning Tree Protocol, Rapid Spanning Tree protocol, EtherChannel and OSPF. Needs to keep the progress steady and precise..
+
+What's next? - Day20, 21, 22, 23, 26, 27, 28 Lab need to be done ASAP and Learn Day29 34 35 Lectures, have to clear backlog fast!
+
 ## What I Learned
 
 
