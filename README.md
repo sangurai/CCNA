@@ -88,6 +88,20 @@ What is the problem? -  need to review Spanning Tree Protocol, Rapid Spanning Tr
 
 What's next? - Day20, 21, 22, 23, 26, 27, 28 Lab need to be done ASAP and Learn Day29 34 35 Lectures, have to clear backlog fast!
 
+### 16/04/2025
+The lectures videos and Lab I learned are :
+* [x] day29 FHRP( First Hop Redundancy Protocol )
+* [x] day34 Standard ACLs
+* [x] day20 STP Part1 Lab
+* [x] day21 STP Part2 Lab
+* [x] day22 RSTP Lab
+* [x] day23 EtherChannel Lab
+> About ~ ...% of Intended Lectures
+
+What is the problem? -  need to review Spanning Tree Protocol, Rapid Spanning Tree protocol, EtherChannel and OSPF. Needs to keep the progress steady and precise..
+
+What's next? - Day26, 27, 28, 29, 34 Lab need to be done ASAP and Learn Day39 44 45 49Lectures, I have to keep the MOMENTUM going..
+
 ## What I Learned
 
 
