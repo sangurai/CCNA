@@ -1,5 +1,5 @@
 # CCNA
-Learning record of **CCNA** and stuyding for **project**. Start Date 2/04/2025
+Learning record of **CCNA** and stuyding for **project**. Start Date 2/04/2026 - 18/04/2026
 ## Technologies and Resources
 * Cisco Packet Tracer
 * GNS3
@@ -47,7 +47,6 @@ Learning record of **CCNA** and stuyding for **project**. Start Date 2/04/2025
 * [x] day21 STP( Spanning Tree Protocol ) Part2
 * [x] day22 STP( Rapid Spanning Tree Protocol )
 * [x] day23 EtherChannel
-* [ ] day24 Dynamic Routing
 * [x] day26 OSPF( Open Shortest Path First )Part1
 * [x] day27 OSPF( Open Shortest Path First )Part2 
 * [x] day28 OSPF( Open Shortest Path First )Part3
