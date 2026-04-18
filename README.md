@@ -1,5 +1,5 @@
 # CCNA
-Learning record of **CCNA** and stuyding for **project**. Start Date 2/04/2026 - 18/04/2026
+Learning record of **CCNA** and studying for **project**. Start Date 2/04/2026 - 18/04/2026
 ## Technologies and Resources
 * Cisco Packet Tracer
 * GNS3
