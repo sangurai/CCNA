@@ -169,6 +169,6 @@ The lectures videos and Lab I learned are :
 
 What is the problem? -  need to review Spanning Tree Protocol, Rapid Spanning Tree protocol, EtherChannel, OSPF, FHRP, NAT and ACLs.
 
-What's next? - Start doing project
+What's next? - Start doing [project](https://github.com/sangurai/Enterprise-Network-with-High-Availability-and-Security)
 
 
